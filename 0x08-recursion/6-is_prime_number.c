@@ -24,7 +24,7 @@ int is_prime(unsigned int n, unsigned int c)
  */
 int is_prime_number(int n)
 {
-	if (n == 0 && n < 0 && n == 1)
+	if (n <= 1)
 		return (0);
 	return (is_prime(n, 2));
 }
