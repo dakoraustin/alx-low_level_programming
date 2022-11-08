@@ -54,7 +54,7 @@ char **strtow(char *str)
 				if (aout[i] == NULL)
 				{
 					ch_free_grid(aout, i);
-					return (NULL):
+					return (NULL);
 				}
 				break;
 			}
