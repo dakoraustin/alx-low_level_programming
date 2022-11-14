@@ -1,1 +1,1 @@
-This folder contains projectcodes for structures and typedef
+This folder contains project codes and header files for structures and typedef
